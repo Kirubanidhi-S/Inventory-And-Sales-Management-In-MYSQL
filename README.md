@@ -1,3 +1,4 @@
+## INVENTORY AND SALES MANAGEMENT IN SQL
 # 📦 **PROJECT OVERVIEW**
 
 * 🎯 **Project Title:** Inventory & Sales Management System
